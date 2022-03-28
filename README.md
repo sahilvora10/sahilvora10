@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 My name is Sahil Vora and I'm a software developer/DevOps engineer. I'm from India, and currently working at Sabre. 
 
 You can find me on 
-[![Twitter][1.2]][1] [![LinkedIn][3.2]][3] 
+[![Twitter][1.2]][1] [![LinkedIn][3.2]][3] [![Github][2.2]][2] [![Kaggle][3.3]][4]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -84,14 +84,14 @@ A sample of my recent articles:
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
+[3.3]: https://www.iconfinder.com/icons/4373210/kaggle_logo_logos_icon
 
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/sahilvora1011
 [2]: https://github.com/sahilvora10
 [3]: https://www.linkedin.com/in/sahil-vora/
-
+[4]: https://www.kaggle.com/vora1011
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
