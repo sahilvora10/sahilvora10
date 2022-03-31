@@ -61,7 +61,7 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilvora10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/sahilvora10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilvora10&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sahil's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilvora10&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" alt="Sahil's GitHub Stats" />
 </a>
 
 <a href="https://github.com/sahilvora10/WordleAnalyticsDashboard">
