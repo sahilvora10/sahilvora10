@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **sahilvora10/sahilvora10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,41 +16,43 @@ Here are some ideas to get you started:
 
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://github.com/sahilvora10/sahilvora10/blob/main/github_banner.png "Header")](https://github.com/sahilvora10)
+<!-- [![Header](https://github.com/sahilvora10/sahilvora10/blob/main/github_banner.png "Header")](https://github.com/sahilvora10) -->
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Sahil Vora and I'm a software developer/DevOps engineer. I'm from India, and currently working at Sabre. 
 
-You can find me on 
-[![Twitter][1.2]][1] [![LinkedIn][3.2]][3] [![Github][2.2]][2] [![Kaggle][3.3]][4]
+You can find me on: 
+- [![Twitter][1.2]][1] - [Twitter][1]
+- [![LinkedIn][3.2]][3] - [LinkedIn][3]
+- [![Github][2.2]][2] - [Github][2]
+- [![Kaggle][3.3]][4] - [Kaggle][4]
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) -->
+<!-- ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a) -->
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+<br/>
+![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+<br/>
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Google%20Cloud-informational?style=flat&logo=GoogleCloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Salesforce-informational?style=flat&logo=salesforce&logoColor=white&color=2bbc8a)
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@vorasahil01).
 
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate CI Pipeline for All of Your Python Projects](https://bit.ly/3MI4Iz0)
-- [Optimizing Memory Usage in Python Applications](https://bit.ly/3M30D82)
-- [Upcoming Python Features Brought to You by Python Enhancement Proposals](https://bit.ly/3oMJ6qR)
-- [Creating Beautiful Tracebacks with Python&#39;s Exception Hooks](https://bit.ly/3IRD7IK)
+- [How well are you doing in Wordle?](https://medium.com/@vorasahil01/how-well-are-you-doing-in-wordle-a2f6b0d096c3)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
