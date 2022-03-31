@@ -73,7 +73,7 @@ A sample of my recent articles:
 </a> 
 
 <a href="https://github.com/sahilvora10/PythonHackerank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilvora10&repo=PythonHackerank&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilvora10&repo=PythonHackerank&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a>    
 
 <!-- links to social media icons -->
