@@ -28,6 +28,10 @@ You can find me on:
 - [![Github][2.2]][2] - [Github][2]
 - [![Kaggle][3.3]][4] - [Kaggle][4]
 
+Contact at:
+<br/>
+📧 Gmail: sahilvora0409@gmail.com
+
 ## 🔧 Technologies & Tools
 <!-- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a) -->
