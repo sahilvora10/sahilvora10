@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Sahil Vora and I'm a software developer/DevOps engineer. I'm from India, and currently working at Sabre. 
+My name is Sahil Vora and I'm a software developer/cloud engineer. I'm from India, and currently working at Sabre. 
 
 You can find me on: 
 - [![Twitter][1.2]][1] - [Twitter][1]
