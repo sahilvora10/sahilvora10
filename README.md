@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Sahil Vora and I'm a software developer/cloud engineer. I'm from India, and currently working at Sabre. 
+My name is Sahil Vora and I'm a software developer/cloud engineer/ML enthusiast. I'm currently pursuing Master's in Computer Science at Arizona State University, Tempe. 
 
 You can find me on: 
 - [![Twitter][1.2]][1] [Twitter][1]
 - [![LinkedIn][3.2]][3] [LinkedIn][3]
 - [![Github][2.2]][2] [Github][2]
 - [![Kaggle][3.3]][4] [Kaggle][4]
-- 📧 sahilvora0409@gmail.com
+- 📧 sahilvora2021@gmail.com
 
 ## 🔧 Technologies & Tools
 <!-- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) -->
