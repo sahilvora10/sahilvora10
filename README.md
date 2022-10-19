@@ -46,7 +46,10 @@ You can find me on:
 ![](https://img.shields.io/badge/Cloud-Google%20Cloud-informational?style=flat&logo=GoogleCloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Salesforce-informational?style=flat&logo=salesforce&logoColor=white&color=2bbc8a)
 
-## &#x270d; Blog & Writing
+## &#x270d; Blog & Research Papers
+
+I have published research papers in one of the leading journals.
+- [Phase Recovery for Holography using Deep Learning](https://www.irjet.net/archives/V8/i3/IRJET-V8I396.pdf)
 
 Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@vorasahil01).
 
@@ -55,6 +58,7 @@ A sample of my recent articles:
 <!-- BLOG-POST-LIST:START -->
 - [How well are you doing in Wordle?](https://medium.com/@vorasahil01/how-well-are-you-doing-in-wordle-a2f6b0d096c3)
 <!-- BLOG-POST-LIST:END -->
+
 
 ## &#x1f4c8; GitHub Stats
 
