@@ -58,13 +58,13 @@ A sample of my recent articles:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/sahilvora10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilvora10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+
 <a href="https://github.com/sahilvora10">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilvora10&show_icons=true&include_all_commits=true&line_height=27&count_private=true&cache_seconds=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sahil's GitHub Stats" />
 </a>
+</br>
 
+## &#128187; GitHub Projects
 <a href="https://github.com/sahilvora10/WordleAnalyticsDashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilvora10&repo=WordleAnalyticsDashboard&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a>
@@ -73,9 +73,9 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilvora10&repo=IPL_Data_Extraction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a> 
 
-<a href="https://github.com/sahilvora10/PythonHackerank">
+<!-- <a href="https://github.com/sahilvora10/PythonHackerank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilvora10&repo=PythonHackerank&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
-</a>    
+</a>  -->  
 
 <!-- links to social media icons -->
 
@@ -90,13 +90,14 @@ A sample of my recent articles:
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [3.3]: https://github.com/sahilvora10/sahilvora10/blob/main/4373210_kaggle_logo_logos_icon.png
-
+[4.4]: https://simpleicons.org/icons/leetcode.svg
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/sahilvora1011
 [2]: https://github.com/sahilvora10
 [3]: https://www.linkedin.com/in/sahil-vora/
 [4]: https://www.kaggle.com/vora1011
+[5]: https://leetcode.com/sahilvora0409/
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
