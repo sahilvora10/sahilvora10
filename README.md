@@ -83,6 +83,11 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilvora10&repo=PythonHackerank&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a>
 
+
+<a href="https://github.com/sahilvora10/leetcode_solutions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilvora10&repo=leetcode_solutions&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
+</a>
+
 <a href="https://github.com/sahilvora10/Covid-19-Vaccine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilvora10&repo=Covid-19-Vaccine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
 </a> 
